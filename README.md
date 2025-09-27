@@ -26,6 +26,9 @@ It provides a simple, fast, and clean user interface where users can **explore s
 - **Contact Page**  
   - `contact.html` has a form for customers to submit queries.
 
+ **About Page** 
+  - `about.html` gives information about the fetchFast 
+
 ---
 
 ## 🚀 How to Run
@@ -48,8 +51,7 @@ Since it’s a **static site**, you only need a browser:
 
 ## 📌 Future Improvements
 
-- Add **JavaScript** for form validation & dynamic interactions.  
-- Complete the **About Us** page (`about.html`).  
+- Add **JavaScript** for form validation & dynamic interactions. 
 - Implement **backend integration** for authentication, booking, and contact forms.  
 - Make the site **fully responsive** across devices.  
 - Add **order tracking page** for real-time updates.  
