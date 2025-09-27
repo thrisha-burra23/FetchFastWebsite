@@ -2,7 +2,7 @@
 
 FetchFast is a **static delivery and logistics service website** built using **HTML & CSS**.  
 It provides a simple, fast, and clean user interface where users can **explore services, register, login, book deliveries, and contact support**.
-
+live link: https://thrisha-burra23.github.io/FetchFastWebsite
 
 ## ✨ Features
 
