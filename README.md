@@ -26,8 +26,8 @@ It provides a simple, fast, and clean user interface where users can **explore s
 - **Contact Page**  
   - `contact.html` has a form for customers to submit queries.
 
- **About Page** 
-  - `about.html` gives information about the fetchFast 
+- **About Page** 
+   - `about.html` gives information about the fetchFast 
 
 ---
 
